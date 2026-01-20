@@ -1,16 +1,15 @@
-## Hi there 👋
+Selam, ben Ayberk! 👋
+Fırat Üniversitesi Bilgisayar Programcılığı öğrencisiyim. Teknoloji dünyasına "kod yazan" değil, "teknolojiyi yöneten ve denetleyen" yeni nesil bir bakış açısıyla yaklaşıyorum. 🚀
 
-<!--
-**ayberkhicyilmaz/ayberkhicyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Yazılım Felsefem: AI Orchestration
+Yapay zekanın gücünü Java, PHP ve Web teknolojileriyle birleştiriyorum. Benim için en iyi kod; AI tarafından optimize edilmiş, insan tarafından mantıksal olarak denetlenmiş ve en verimli hale getirilmiş koddur.
 
-Here are some ideas to get you started:
+🛠️ Nelerle İlgileniyorum?
+💻 Backend: Java ve PHP/MySQL sistemleri üzerine mimari kurgular.
+🎨 Visual Design: Photoshop ile görsel estetik ve teknik doğruluğun buluşması.
+⚡ Hızlı Adaptasyon: Yeni teknolojileri öğrenmek yerine "çözüm üretmek" için kullanmak.
+📍 Hedeflerim
+Manisa, İzmir veya uzaktan (remote) çalışabileceğim; enerjimi, gülen yüzümü ve teknik denetim yeteneğimi katabileceğim projeler arıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gülümsemenin ve enerjinin her türlü teknik sorunu çözmede ilk adım olduğuna inanıyorum. Tanışmak isterseniz bir mesaj uzağınızdayım!
+
